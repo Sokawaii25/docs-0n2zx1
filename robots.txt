@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-60nigy.indocuan-vip.sbs/sitemap.xml
